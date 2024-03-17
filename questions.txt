@@ -10,3 +10,53 @@ Automatic promoter
 method overloading
 constructor overloading
 overriding
+Exceptions
+unchecked
+checked
+throw
+throws
+Arraylist
+customexception
+collection framework
+iterable 
+itrator
+
+collection
+queue
+arraylist
+listiterator
+set
+stack queue
+tostring method
+linkedlist
+vector
+set
+min heap
+max heap
+Stack 
+Queue
+Priority Queue
+Hash set
+linked Hashset
+tree set
+
+Hash map
+comparable
+comparator
+set in map for iterator
+name comparator
+Multithreading
+thread generation
+synchronised in thread
+lock in thread
+semaphores in thread
+synchronised keyword
+synchronised block
+
+
+
+
+
+
+
+
